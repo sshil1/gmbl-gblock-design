@@ -19,3 +19,23 @@ https://github.com/sshil1/gmbl-gblock-design
 
 ## License
 MIT License - See LICENSE file
+
+# CITATION.cff file (create in repo root)
+cff-version: 1.2.0
+title: "GMBL Synthetic gBlock Positive Control System"
+authors:
+  - family-names: "Shil"
+    given-names: "Sharadindu"
+    orcid: "https://orcid.org/0000-0002-6167-2244"
+    affiliation: "CLART GMBL, PBGSBS, Kalyani, India"
+date-released: 2025-01-15
+version: "1.0"
+license: "MIT"
+repository-code: "https://github.com/sshil1/gmbl-gblock-design"
+keywords:
+  - gBlock
+  - PCR-PIRA
+  - RFLP
+  - bovine genetics
+  - hereditary disease
+  - diagnostics
